@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|c:\\users\\duongova\\documents\\local projects\\helloworld\\my_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|c:\\users\\duongova\\documents\\local projects\\helloworld\\my_helloworld\\httpresponsemessagesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3090CB01-9158-48F4-BFD6-E3D5A2D4124B}|HelloWorld.csproj|solutionrelative:httpresponsemessagesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpResponseMessagesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\HttpResponseMessagesExtensions.cs",
+              "RelativeDocumentMoniker": "HttpResponseMessagesExtensions.cs",
+              "ToolTip": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\HttpResponseMessagesExtensions.cs",
+              "RelativeToolTip": "HttpResponseMessagesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:57:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\duongova\\Documents\\Local Projects\\HelloWorld\\My_HelloWorld\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:58:38.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
